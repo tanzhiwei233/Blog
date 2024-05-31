@@ -17,3 +17,9 @@ $ hexo generate
 
 ## Install Next
 
+```
+git clone git@github.com:tanzhiwei233/hexo-theme-next.git themes/next
+```
+
+
+
