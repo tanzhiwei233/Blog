@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="修改文章标题">
-      <change afterPath="$PROJECT_DIR$/source/_posts/hexo + github.md" afterDir="false" />
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="hexo + git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo + github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo + github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo init.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo init.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/install PicGo.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/install PicGo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <updated>1717580198200</updated>
       <workItem from="1717580199446" duration="1179000" />
       <workItem from="1717653633418" duration="1733000" />
-      <workItem from="1717655381380" duration="8025000" />
+      <workItem from="1717655381380" duration="10452000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>
@@ -103,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717662755157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hexo + git">
+      <created>1717664300828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717664300828</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +135,8 @@
     <MESSAGE value="add  post" />
     <MESSAGE value="优化 next主题 添加一些小功能" />
     <MESSAGE value="修改文章标题" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文章标题" />
+    <MESSAGE value="hexo + git" />
+    <option name="LAST_COMMIT_MESSAGE" value="hexo + git" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

@@ -1,5 +1,6 @@
 ---
 title: typora picture upload —— PicGo
+tags: hexo
 ---
 
 

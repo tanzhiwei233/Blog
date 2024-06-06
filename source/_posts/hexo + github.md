@@ -1,6 +1,6 @@
 ---
 title: hero + github
-
+tags: hexo
 ---
 
 ## 新建一个仓库

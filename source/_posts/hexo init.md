@@ -1,6 +1,6 @@
 ---
 title: hero installation and beautify
-
+tags: hexo
 ---
 
 ## Install Hexo
