@@ -1,5 +1,5 @@
 ---
-title: hero init
+title: hero installation and beautify
 
 ---
 

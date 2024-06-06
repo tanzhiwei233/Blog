@@ -1,5 +1,5 @@
 ---
-title: install PicGo
+title: typora picture upload —— PicGo
 ---
 
 
