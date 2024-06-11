@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="hexo + git">
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="20240606优化文章tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hexo + github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo + github.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/hexo init.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo init.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/install PicGo.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/install PicGo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/live2d-widget/autoload.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/live2d-widget/autoload.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,8 @@
       <updated>1717580198200</updated>
       <workItem from="1717580199446" duration="1179000" />
       <workItem from="1717653633418" duration="1733000" />
-      <workItem from="1717655381380" duration="10452000" />
+      <workItem from="1717655381380" duration="10617000" />
+      <workItem from="1718095294047" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717664300828</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20240606优化文章tags">
+      <created>1717667990475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667990475</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,11 +127,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="460d04ba-6468-43d8-b276-872cbbb9947a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/tanzhiwei/blog/themes/next/source" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="460d04ba-6468-43d8-b276-872cbbb9947a" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -136,7 +171,8 @@
     <MESSAGE value="优化 next主题 添加一些小功能" />
     <MESSAGE value="修改文章标题" />
     <MESSAGE value="hexo + git" />
-    <option name="LAST_COMMIT_MESSAGE" value="hexo + git" />
+    <MESSAGE value="20240606优化文章tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240606优化文章tags" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

@@ -196,3 +196,26 @@ wpm: 275
 ```
 
 ## 在菜单栏添加留言板
+
+## 添加2d看板娘
+git clone拷贝到主题的source目录下
+```
+git clone git@github.com:stevenjoezhang/live2d-widget.git
+```
+在主题目录的layout文件夹中找到head文件(_layout.swig)并在其中添加代码script
+```
+<head>
+  {{ partial('_partials/head/head.swig', {}, {cache: theme.cache.enable}) }}
+  {% include '_partials/head/head-unique.swig' %}
+  {{- next_inject('head') }}
+  <title>{% block title %}{% endblock %}</title>
+  {{ partial('_third-party/analytics/index.swig', {}, {cache: theme.cache.enable}) }}
+  {{ partial('_scripts/noscript.swig', {}, {cache: theme.cache.enable}) }}
+  <script src="/live2d-widget/autoload.js"></script>
+</head>
+```
+修改看板娘代码的autoload.js
+```
+const live2d_path = "/live2d-widget/";
+cdnPath: "https://gcore.jsdelivr.net/npm/yzs-live2d_src@1.1.0/",
+```
