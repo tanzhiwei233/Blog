@@ -1,5 +1,5 @@
 ---
-title: hero + github
+title: 将hexo使用github托管
 tags: hexo
 ---
 

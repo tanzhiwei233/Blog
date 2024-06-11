@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="添加2d看板娘">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/live2d-widget/waifu-tips.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/live2d-widget/waifu-tips.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/live2d-widget/waifu.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/live2d-widget/waifu.css" afterDir="false" />
-    </list>
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="添加2d看板娘" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +68,7 @@
       <workItem from="1717580199446" duration="1179000" />
       <workItem from="1717653633418" duration="1733000" />
       <workItem from="1717655381380" duration="10617000" />
-      <workItem from="1718095294047" duration="3004000" />
+      <workItem from="1718095294047" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>
@@ -137,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718098309642</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加2d看板娘">
+      <created>1718098371915</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718098371915</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
