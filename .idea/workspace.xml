@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="添加2d看板娘" />
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="修改.gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,7 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.21.4/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next/source/live2d-widget" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitToolBoxStore">
@@ -69,6 +72,8 @@
       <workItem from="1717653633418" duration="1733000" />
       <workItem from="1717655381380" duration="10617000" />
       <workItem from="1718095294047" duration="3860000" />
+      <workItem from="1718156779042" duration="670000" />
+      <workItem from="1718186700060" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>

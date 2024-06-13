@@ -219,3 +219,11 @@ git clone git@github.com:stevenjoezhang/live2d-widget.git
 const live2d_path = "/live2d-widget/";
 cdnPath: "https://gcore.jsdelivr.net/npm/yzs-live2d_src@1.1.0/",
 ```
+
+## 添加网易云音乐
+
+在网页版网易云音乐，分享歌单，点击动态里的歌单，生成外链
+```
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=395 src="//music.163.com/outchain/player?type=0&id=8693395876&auto=1&height=430"></iframe>
+```
+将外链加在next/layout/_macro/sidebar.swig
