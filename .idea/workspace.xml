@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="调整侧边栏和看板娘的位置">
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="添加背景图片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hexo init.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo init.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,7 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.21.4/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitToolBoxStore">
@@ -76,7 +75,7 @@
       <workItem from="1718156779042" duration="670000" />
       <workItem from="1718186700060" duration="521000" />
       <workItem from="1718241869046" duration="1442000" />
-      <workItem from="1718329905833" duration="6479000" />
+      <workItem from="1718329905833" duration="9073000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718354160866</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="添加背景图片">
+      <created>1718356241125</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718356241125</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,11 +225,37 @@
             <State />
           </value>
         </entry>
+        <entry key="b68bf80a-5e20-43db-8ee0-463ae11c5e8c">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="460d04ba-6468-43d8-b276-872cbbb9947a" value="TOOL_WINDOW" />
+        <entry key="b68bf80a-5e20-43db-8ee0-463ae11c5e8c" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -237,7 +269,8 @@
     <MESSAGE value="添加2d看板娘" />
     <MESSAGE value="添加网易云音乐" />
     <MESSAGE value="调整侧边栏和看板娘的位置" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整侧边栏和看板娘的位置" />
+    <MESSAGE value="添加背景图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加背景图片" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
