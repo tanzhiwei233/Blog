@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="调整侧边栏和看板娘的位置">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo init.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo init.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.21.4/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitToolBoxStore">
@@ -75,7 +76,7 @@
       <workItem from="1718156779042" duration="670000" />
       <workItem from="1718186700060" duration="521000" />
       <workItem from="1718241869046" duration="1442000" />
-      <workItem from="1718329905833" duration="4410000" />
+      <workItem from="1718329905833" duration="6479000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1717580237098</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718353825461</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="调整侧边栏和看板娘的位置">
+      <created>1718354160866</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718354160866</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -227,3 +227,45 @@ cdnPath: "https://gcore.jsdelivr.net/npm/yzs-live2d_src@1.1.0/",
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=395 src="//music.163.com/outchain/player?type=0&id=8693395876&auto=1&height=430"></iframe>
 ```
 将外链加在next/layout/_macro/sidebar.swig
+
+## 添加背景图片
+将自己的背景图片命名为background.png保存在\themes\next\source\images路径下
+进入路径\themes\next\source\css\_schemes可见其中有四个主题文件
+选择你自己的主题，本文以Gemini为例，打开index.styl
+复制下列代码。
+```
+// 整体背景设置
+body {
+background:url(/images/background.png);// 设定背景图片,images同处于source文件夹下
+background-repeat: no-repeat;// 设定背景图片非重复填充
+background-attachment:fixed;// 设置背景图片不随页面滚动
+background-position:50% 50%;// 设置背景图片位置
+background-size: cover// 设置保持图像的纵横比并将图像缩放成将完全覆盖背景定位区域的最小大小
+}
+
+//博客内容透明化
+//文章内容的透明度设置
+.content-wrap {
+opacity: 0.8;
+}
+.main-inner {
+// margin-top: 60px;
+// padding: 60px 60px 60px 60px;
+
+background: rgba(255,255,255,0.7) none repeat scroll !important;
+}
+//侧边框的透明度设置
+.sidebar-inner {
+background: rgba(255,255,255,0.7) none repeat scroll !important;
+}
+
+//菜单栏的透明度设置
+.header-inner {
+background: rgba(255,255,255,0.8);
+}
+
+//搜索框（local-search）的透明度设置
+.popup {
+opacity: 0.8;
+}
+```
