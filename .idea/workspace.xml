@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="重庆小火锅">
-      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+    <list default="true" id="115ee5a6-76e8-4169-8c49-a5f69a1fc579" name="Changes" comment="取消掉透明度">
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo + github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo + github.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.21.4/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitToolBoxStore">
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718865905518</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="取消掉透明度">
+      <created>1718873632838</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718873632838</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +309,8 @@
     <MESSAGE value="添加背景图片" />
     <MESSAGE value="调整config" />
     <MESSAGE value="重庆小火锅" />
-    <option name="LAST_COMMIT_MESSAGE" value="重庆小火锅" />
+    <MESSAGE value="取消掉透明度" />
+    <option name="LAST_COMMIT_MESSAGE" value="取消掉透明度" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
